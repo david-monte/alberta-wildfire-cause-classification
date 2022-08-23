@@ -1,5 +1,5 @@
 # Uma abordagem inovadora utilizando aprendizagem de máquina integrada ao Azure para classificação da causa de incêndios florestais em Alberta no Canadá
-> Projeto desenvolvido por: Wanderson R. Marques , David S. Monte, Priscilla A. Lima 
+> Projeto desenvolvido por: Wanderson R. Marques, David S. Monte & Priscilla A. Lima 
 
 ![](header.png)
 
